@@ -1,0 +1,11 @@
+# test/fixtures/test_posts.yml
+
+first_post:
+  title: Test Title One
+  description: Description for first test post
+  keywords: test, rails, fixture
+
+second_post:
+  title: Test Title Two
+  description: Description for second test post
+  keywords: ruby, yaml, example
